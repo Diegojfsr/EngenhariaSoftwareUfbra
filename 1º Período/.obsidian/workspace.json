@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cacf67210ed8d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8de1912e1832737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Unidade1.1-Introdução ao curso de engenharia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade1.1-Introdução ao curso de engenharia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Unidade1.1-Introdução ao curso de engenharia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Unidade1.1-Introdução ao curso de engenharia"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "1b02efb55613b8a3",
+  "lastOpenFiles": [
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Unidade1.1-Introdução ao curso de engenharia.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)",
+    "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
+    "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
+    "Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
+    "Leitura e Produção de Textos/Unidade3.3-A coesão textual mecanismos de referenciação.md",
+    "Leitura e Produção de Textos/Unidade3.2-Pontuação.md",
+    "Leitura e Produção de Textos/Unidade3.1-A construção do parágrafo padrão.md",
+    "Leitura e Produção de Textos/Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
+    "Unidade2.2-Estratégias de leitura - texto e contexto.md",
+    "Leitura e Produção de Textos/Unidade2.2-Estratégias de leitura - texto e contexto.md",
+    "Leitura e Produção de Textos/Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
+    "Leitura e Produção de Textos/Unidade1.3-Níveis de linguagem.md",
+    "Leitura e Produção de Textos/Unidade1.2-O novo acordo ortográfico.md",
+    "Leitura e Produção de Textos/Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
+    "Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
+    "Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
+    "Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
+    "Unidade1.3-Níveis de linguagem.md",
+    "Unidade1.2-O novo acordo ortográfico.md",
+    "Leitura e Produção de Textos",
+    "05.Node.js Crypto Complete Reference/31.Node.js decipher.final() Method.md",
+    "05.Node.js Crypto Complete Reference/30.Node.js decipher.update() Method.md",
+    "05.Node.js Crypto Complete Reference/29.Node.js script.createCachedData() Method.md",
+    "05.Node.js Crypto Complete Reference/28.Node.js crypto.privateEncrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/27.Node.js crypto.scrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/26.Node.js crypto.randomFill() Method.md",
+    "05.Node.js Crypto Complete Reference/25.Node.js crypto.randomFillSync() Method.md",
+    "24.Node.js Zlib Complete Reference",
+    "23.Node.js VM Complete Reference",
+    "22.Node.js V8 Complete Reference",
+    "21.Node.js Utility Complete Reference",
+    "20.Node.js URL Complete Reference",
+    "19.Node.js UDP-DataGram Complete Reference",
+    "18.Node.js TLS-SSL Complete Reference",
+    "17.Node.js Timers Complete Reference"
+  ]
+}
