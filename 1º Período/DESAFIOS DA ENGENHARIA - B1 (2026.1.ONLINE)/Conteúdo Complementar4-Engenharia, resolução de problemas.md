@@ -213,7 +213,14 @@ Banco de Imagens Shutterstock.
 SAGAH. 2015.
 
 
+## EQUIPE SAGAH
 
-
+Coordenador(a) de Curso: Alexandre Baroni
+Professor(a): Cristiane Paixão
+Gerente: Rodrigo Severo
+Analista de Projetos: Fernanda Osório
+Analistas Metodológicas: Daniela Stieh, Fernanda Zimpel
+Designers Instrucionais: Bianca Basile Parracho, Daniela Polycarpy, Ezequiel Alves, Franciane de Freitas, Luciana Helmann, Marcelo Steffen
+Designers Gráficos: Carol Becker, Kaka Silocchi, Juarez Menegassi, Marcio Castellan, Rafael Zago, Thais Gliosci, Vinicius Rafael Cárcamo
 
 
