@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar1-Inteligência Competitiva.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conteúdo Complementar1-Inteligência Competitiva"
-            }
-          },
-          {
-            "id": "5973474659654f4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar3- Conhecimento e Inovação.md",
+                "file": "1º Período/TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar3- Conhecimento e Inovação.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Conteúdo Complementar3- Conhecimento e Inovação"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar3- Conhecimento e Inovação.md",
+                "file": "1º Período/TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar3- Conhecimento e Inovação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,10 +167,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5973474659654f4e",
+  "active": "908b3709870073d4",
   "lastOpenFiles": [
-    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar1-Inteligência Competitiva.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar1-Áreas de atuação e mercado de trabalho.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula2-Ética, legislação e entidades na área de engenharia.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula1-Introdução ao curso de engenharia.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar3- Conhecimento e Inovação.md",
+    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar1-Inteligência Competitiva.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Avalie sua disciplina.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula4-Desenvolvimento profissional na engenharia.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula3-Relações humanas, engenheiro na empresa..md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar2-Inovações radicais, incrementais e disruptivas.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 3-As tecnologias de informação e comunicação atual na sociedade.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula4-Inovação e tecnologia.md",
@@ -193,19 +184,13 @@
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 1-Fundamentos da tecnologia da informação.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar1-Áreas de atuação e mercado de trabalho.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula1-Introdução ao curso de engenharia.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
     "AMBIENTAÇÃO EAD (2026.FEV.MAR)",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar4-Engenharia, resolução de problemas.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar3-Engenharia, abordagem de problema.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar2-Administração eficaz do tempo.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula3-Relações humanas, engenheiro na empresa..md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula4-Desenvolvimento profissional na engenharia.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Avalie sua disciplina.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Laboratórios Virtuais1-Processos Industriais e Gestão da Qualidade, Dinâmica Lean Manufacturing.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula2-Ética, legislação e entidades na área de engenharia.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)",
     "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
     "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",

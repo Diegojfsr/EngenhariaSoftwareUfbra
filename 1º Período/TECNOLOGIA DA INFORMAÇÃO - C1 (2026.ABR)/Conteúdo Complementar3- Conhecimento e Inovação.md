@@ -2,7 +2,7 @@
 
 A globalização e a inserção de tecnologia nos modos de viver das pessoas pautaram nova perspectiva para a necessidade de produção de conhecimento nas organizações contemporâneas. Nesse cenário, o esforço continuado para a inovação de produtos, serviços e processos viabiliza não somente o fortalecimento da vantagem competitiva das empresas, mas também a sobrevivência delas em meio à economia e ao mercado pós-globalizados – competitivos e exigentes.
 
-Diante dessa lógica, o conhecimento produzido, aprendido e compartilhado nos _lócus_ das práticas nas organizações não prescinde de gestão que oportunize o direcionamento do desenvolvimento e a aplicação desse conhecimento para atingimento e/ou superação de metas e resultados organizacionais. Assim, o debate acerca da gestão de conhecimento contempla a prática de inovar na medida em que pode ser associada à criação, à assimilação e ao manejo prático desse novo conhecimento.
+Diante dessa lógica, o conhecimento produzido, aprendido e compartilhado nos lócus das práticas nas organizações não prescinde de gestão que oportunize o direcionamento do desenvolvimento e a aplicação desse conhecimento para atingimento e/ou superação de metas e resultados organizacionais. Assim, o debate acerca da gestão de conhecimento contempla a prática de inovar na medida em que pode ser associada à criação, à assimilação e ao manejo prático desse novo conhecimento.
 
 Nesta Unidade de Aprendizagem, é discutido o papel da inovação para as corporações e seu impacto no mundo dos negócios. Além disso, discutem-se os aspectos que aproximam o conhecimento da inovação e, por fim, é analisada a maneira como o conhecimento leva a inovação no ambiente intra e interorganizacional.
 
