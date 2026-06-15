@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.2-Limites, Taxas de variação e retas tangentes.md",
+                "file": "LÍNGUA PORTUGUESA - E1 (2026.JUN)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula1.2-Limites, Taxas de variação e retas tangentes"
+              "title": "CRONOGRAMA DAS ATIVIDADES AVALIATIVAS"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.2-Limites, Taxas de variação e retas tangentes.md",
+                "file": "LÍNGUA PORTUGUESA - E1 (2026.JUN)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula1.2-Limites, Taxas de variação e retas tangentes"
+              "title": "Sumário de CRONOGRAMA DAS ATIVIDADES AVALIATIVAS"
             }
           },
           {
@@ -184,8 +184,10 @@
   },
   "active": "59886a198c4ff5ce",
   "lastOpenFiles": [
-    "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.1-Definição de limite matemático e demonstrações.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.2-Limites, Taxas de variação e retas tangentes.md",
+    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
+    "LÍNGUA PORTUGUESA - E1 (2026.JUN)",
+    "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.1-Definição de limite matemático e demonstrações.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar3-Conhecimento e Inovação.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar4-Principais desafios para a gestão do conhecimento.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar2-Inovações radicais, incrementais e disruptivas.md",
@@ -211,14 +213,12 @@
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Laboratórios Virtuais1-Processos Industriais e Gestão da Qualidade, Dinâmica Lean Manufacturing.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar4-Engenharia, resolução de problemas.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar3-Engenharia, abordagem de problema.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar2-Administração eficaz do tempo.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)",
     "COMISSÃO PRÓPRIA DE AVALIAÇÃO (CPA_2026)",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)",
     "AMBIENTAÇÃO EAD (2026.FEV.MAR)",
     "1º Período/COMISSÃO PRÓPRIA DE AVALIAÇÃO (CPA_2026)",
     "Leitura e Produção de Textos",
-    "24.Node.js Zlib Complete Reference",
-    "23.Node.js VM Complete Reference"
+    "24.Node.js Zlib Complete Reference"
   ]
 }
