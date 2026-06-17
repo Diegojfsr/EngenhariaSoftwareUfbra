@@ -63,8 +63,7 @@
               "title": "Aula2.2- Estratégias de leitura e interpretação"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.2- Estratégias de leitura e interpretação.md",
+                "file": "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula1.1-Teoria da comunicação elementos da comunicação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula2.2- Estratégias de leitura e interpretação"
+              "title": "Sumário de Aula1.1-Teoria da comunicação elementos da comunicação"
             }
           },
           {
@@ -210,11 +209,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bb3d857aa259d5e2",
+  "active": "504986c35ad41c2f",
   "lastOpenFiles": [
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.1- Coerência textual.md",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.2- Estratégias de leitura e interpretação.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula1.2-Tipos textuais - a descrição elementos, estrutura e gêneros.md",
+    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.2- Estratégias de leitura e interpretação.md",
+    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.1- Coerência textual.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula1.1-Teoria da comunicação elementos da comunicação.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.2-Limites, Taxas de variação e retas tangentes.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.1-Definição de limite matemático e demonstrações.md",

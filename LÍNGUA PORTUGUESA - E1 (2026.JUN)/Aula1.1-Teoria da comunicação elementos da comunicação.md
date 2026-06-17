@@ -215,17 +215,22 @@ Neste artigo, confira um estudo que analisa a comunicação em vídeos tutoriais
 
 ## REFERÊNCIAS BIBLIOGRÁFICAS E CRÉDITOS DE IMAGENS
 
-- BRASILEIRO, A. M. M. Leitura e produção textual. Porto Alegre: Penso, 2016.
-- CHALHUB, S. Funções da linguagem. 6. ed. São Paulo: Ática, 2006.
-- GOIS, J.; ANDRADE, G. da S. Ruídos e significação no ensino. Educere et Educare,
+BRASILEIRO, A. M. M. Leitura e produção textual. Porto Alegre: Penso, 2016.
+
+CHALHUB, S. Funções da linguagem. 6. ed. São Paulo: Ática, 2006.
+
+GOIS, J.; ANDRADE, G. da S. Ruídos e significação no ensino. Educere et Educare,
 Cascavel, v. 17, n. 42, p. 101-126, 2022.
-- LESSA, R. C. da S. A teoria educacional de Ausubel e a interação docente-discente sob o
+
+LESSA, R. C. da S. A teoria educacional de Ausubel e a interação docente-discente sob o
 olhar vigotskiano durante uma pandemia: uma breve reflexão. EaD em Foco, v. 11, n. 1, p.
 1-15, 2021.
-- SILVA, M.; ROCHA, F.; OLIVEIRA, A. Impactos da percepção comunicacional e da timidez
+
+SILVA, M.; ROCHA, F.; OLIVEIRA, A. Impactos da percepção comunicacional e da timidez
 autorreferidos na avaliação ao falar em público de estudantes universitários. CoDAS, São
 Paulo, v. 35, n. 1, 2023.
-- Bancos gratuitos de imagens e Shutterstock.
+
+Bancos gratuitos de imagens e Shutterstock.
 SAGAH, 2025.
 
 
