@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Aula2.1-Enfrentamento às manifestações de violências"
             }
+          },
+          {
+            "id": "020f5077edf0ff27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula 3.1-Desigualdades étnico-raciais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 3.1-Desigualdades étnico-raciais"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula2.1-Enfrentamento às manifestações de violências.md",
+                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula 3.1-Desigualdades étnico-raciais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula2.1-Enfrentamento às manifestações de violências"
+              "title": "Sumário de Aula 3.1-Desigualdades étnico-raciais"
             }
           },
           {
@@ -196,10 +210,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6e3fc50dd63d6c72",
+  "active": "020f5077edf0ff27",
   "lastOpenFiles": [
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula1.1-Globalização, justiça social e cidadania.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula2.1-Enfrentamento às manifestações de violências.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula 3.1-Desigualdades étnico-raciais.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula1.1-Globalização, justiça social e cidadania.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula1.1-Teoria da comunicação elementos da comunicação.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
@@ -225,7 +240,6 @@
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar4-Principais desafios para a gestão do conhecimento.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar2-Inovações radicais, incrementais e disruptivas.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Conteúdo Complementar1-Inteligência Competitiva.md",
-    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula1-Introdução ao curso de engenharia.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)",
