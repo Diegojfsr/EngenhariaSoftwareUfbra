@@ -206,8 +206,7 @@ Confira, a seguir, o podcast Debates na prática. Os convidados Krisley Aparecid
 Para ampliar o seu conhecimento a respeito desse assunto, veja abaixo as sugestões do professor:
 
 
-# Biografia de Carolina Maria de Jesus
-
+ Biografia de Carolina Maria de Jesus
 Conheça a história de vida de Carolina Maria de Jesus, escritora negra, autora de Quarto de despejo. A obra, que vendeu 10 mil exemplares na primeira semana do seu lançamento, aborda o cotidiano e os anseios de uma mulher negra na década de 1950 e reflete as desigualdades raciais no Brasil.
 [Mais](http://www.letras.ufmg.br/literafro/autoras/58-carolina-maria-de-jesus)
 
