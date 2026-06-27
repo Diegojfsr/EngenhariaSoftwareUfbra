@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.4-Bullying nas escolas.md",
+                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conteúdo Complementar1.4-Bullying nas escolas"
+              "title": "CRONOGRAMA DAS ATIVIDADES AVALIATIVAS"
+            }
+          },
+          {
+            "id": "b5f562ffa3093860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avalie sua Disciplina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avalie sua Disciplina"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.4-Bullying nas escolas.md",
+                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avalie sua Disciplina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Conteúdo Complementar1.4-Bullying nas escolas"
+              "title": "Sumário de Avalie sua Disciplina"
             }
           },
           {
@@ -210,10 +224,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87e968aae5d28bc4",
+  "active": "b5f562ffa3093860",
   "lastOpenFiles": [
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avalie sua Disciplina.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.4-Bullying nas escolas.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.2-Ética e o meio ambiente.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.1-Culturas afro-brasileira e indígena na sociedade brasileira contemporânea.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula3.1-Desigualdades étnico-raciais.md",
@@ -221,7 +237,6 @@
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula2.1-Enfrentamento às manifestações de violências.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula1.1-Globalização, justiça social e cidadania.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula1.1-Teoria da comunicação elementos da comunicação.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula4.2-Rede social, diversidade linguística e pluralidade cultural.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)",
@@ -238,7 +253,6 @@
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.2-Estratégias de leitura e interpretação.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula1.2-Tipos textuais - a descrição elementos, estrutura e gêneros.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.2-Limites, Taxas de variação e retas tangentes.md",
-    "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.1-Definição de limite matemático e demonstrações.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
