@@ -176,3 +176,57 @@ Funciona como um registro contínuo de reflexões e percepções, capturando nua
 Permite documentar insights sobre interações sociais, sentimentos da comunidade e reações às propostas de intervenção.
 
 
+## Documentário fotográfico
+
+![](https://desenvolvimento-extensao.dreamshaper.com/uploads/richtext/images/20241212201920675b4548da107.png)
+
+O documentário fotográfico é um método obrigatório para a coleta de dados no projeto extensionista. Por meio de imagens, é possível capturar aspectos visuais que ajudam a entender melhor as características da comunidade, corroborando as informações obtidas por outros métodos de coleta. Este recurso é fundamental para registrar, de forma objetiva, o contexto investigado e destacar elementos que podem não ser evidentes em outras abordagens.
+
+
+#### Dicas
+Escolha horários e locais que melhor representem as atividades e características da comunidade.
+Capte imagens variadas para retratar diferentes aspectos.
+Sempre peça autorização antes de fotografar pessoas ou espaços privados.
+Inclua descrições detalhadas que contextualizem cada imagem.
+Escolha aquelas que melhor representam os desafios e potencialidades da comunidade.
+
+#### Passo 1: Defina o objetivo do registro fotográfico
+Quais aspectos do local ou da comunidade (público-alvo) devem ser registrados? Considere rotinas das pessoas, espaços onde elas interagem, atividades cotidianas ou momentos específicos do dia que ajudem a contextualizar a realidade da comunidade.
+
+Como as imagens podem complementar outras abordagens de coleta de dados?
+
+
+#### Passo 2: Planeje as etapas do registro
+Se você for o único responsável por captar as imagens, escreva seu nome e seu papel, que é de aluno. Caso contrário, se você pretende envolver colaboradores da comunidade, inclua também o nome de cada um deles e sua respectiva função.
+
+Quais locais serão registrados? Liste as regiões ou espaços prioritários para tirar fotografias e vídeos.
+
+#### Passo 3: Organização do material fotográfico
+
+Qual equipamento será utilizado para capturar as imagens da comunidade?
+Celular com câmera integrada.
+Câmera fotográfica digital.
+Filmadora com captura de imagens estáticas.
+Tablet ou outro dispositivo portátil com câmera.
+Outro(s) equipamento(s)
+
+Caso marque "Outro(s)" descreva o equipamento adicional utilizado para capturar as imagens.
+
+
+#### Passo 4: Analise as informações coletadas
+
+Certifique-se de que:
+As capturas refletem os aspectos planejados e que têm qualidade suficiente para serem utilizadas.
+Agrupe as fotografias de acordo com temas, locais ou eventos, facilitando a análise e a apresentação dos dados.
+Observe se há repetições, conexões ou tendências nas imagens que possam ajudar a compreender melhor a comunidade ou o problema investigado.
+Conecte as observações visuais aos dados de outros métodos de coleta, como entrevistas ou questionários, para construir uma análise mais completa.
+Escolha aquelas que melhor ilustram os pontos principais e que poderão ser usadas para relatar os resultados ou comunicar o projeto.
+
+Após realizar os passos descritos, clique em 'Ciente' para confirmar e prosseguir.
+
+
+
+
+
+
+
