@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f97948f92f0efd",
+        "id": "87b5b76af46b33b4",
         "type": "tabs",
         "children": [
           {
-            "id": "f981ae9827b5f457",
+            "id": "eb3d4e7b34f226bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.1-Culturas afro-brasileira e indígena na sociedade brasileira contemporânea.md",
+                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conteúdo Complementar1.1-Culturas afro-brasileira e indígena na sociedade brasileira contemporânea"
-            }
-          },
-          {
-            "id": "26a1bc148f6d0523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.2-Ética e o meio ambiente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conteúdo Complementar1.2-Ética e o meio ambiente"
-            }
-          },
-          {
-            "id": "f43bf6913dfe54d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual"
-            }
-          },
-          {
-            "id": "87e968aae5d28bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CRONOGRAMA DAS ATIVIDADES AVALIATIVAS"
-            }
-          },
-          {
-            "id": "b5f562ffa3093860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avalie sua Disciplina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Avalie sua Disciplina"
-            }
-          },
-          {
-            "id": "e4073a69ce632434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avaliação 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Avaliação 1"
-            }
-          },
-          {
-            "id": "431b75c5112c3041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avaliação 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Avaliação 2"
-            }
-          },
-          {
-            "id": "9d883a175c959aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Exame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exame"
+              "title": "002-Investigação da comunidade"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Exame.md",
+                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Exame"
+              "title": "Sumário de 002-Investigação da comunidade"
             }
           },
           {
@@ -266,18 +167,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9d883a175c959aae",
+  "active": "eb3d4e7b34f226bf",
   "lastOpenFiles": [
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.2-Ética e o meio ambiente.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Exame.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avaliação 2.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avaliação 1.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avalie sua Disciplina.md",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Avaliação 1.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.4-Bullying nas escolas.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.1-Culturas afro-brasileira e indígena na sociedade brasileira contemporânea.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.2-Ética e o meio ambiente.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avalie sua Disciplina.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avaliação 1.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Avaliação 2.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula1-Introdução ao curso de engenharia.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
+    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Avaliação 2.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Exame.md",
+    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Avaliação 1.md",
+    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.4-Bullying nas escolas.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula3.1-Desigualdades étnico-raciais.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula4.1-Estudo da cultura afro-brasileira religiões afro-brasileiras.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula2.1-Enfrentamento às manifestações de violências.md",
@@ -286,15 +191,11 @@
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/CRONOGRAMA DAS ATIVIDADES AVALIATIVAS.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula4.2-Rede social, diversidade linguística e pluralidade cultural.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Avaliação 2.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Avaliação 2.md",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Avaliação 1.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Avalie sua disciplina.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Avalie sua disciplina.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula4.1- Estratégias de leitura textual ou literal.md",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula3.2-Composição textual.md",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula3.1-Texto e intertextualidade como estratégias de leitura.md",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula2.1-Coerência textual.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
