@@ -282,3 +282,118 @@ Led: essencial para corrigir iluminação em ambientes internos ou em registros 
 
 
 
+## Observação participante
+
+
+![](https://desenvolvimento-extensao.dreamshaper.com/uploads/richtext/images/20241212204940675b4c642a931.png)
+
+A observação participante é uma técnica que envolve imersão direta na comunidade, participando de suas atividades para compreender melhor suas dinâmicas, valores e desafios.
+Veja as vantagens e desvantagens do método para entender como ele se encaixa no seu contexto, e confira as dicas a seguir para executar a abordagem da melhor forma possível.
+
+#### Vantagens
+Proporciona uma visão prática e contextualizada das dinâmicas locais.
+Permite compreender comportamentos e interações em profundidade.
+Reúne dados ricos que podem complementar outras abordagens.
+Ajuda a identificar problemas ou potenciais não expressos verbalmente.
+
+#### Desvantagens
+Exige um alto grau de envolvimento e dedicação de tempo.
+O viés do observador pode influenciar as interpretações.
+Nem sempre é possível acessar todos os espaços ou atividades relevantes.
+Pode ser desgastante emocionalmente para o observador.
+
+#### Dicas
+Participe das atividades sem interferir ou alterar as dinâmicas naturais.
+Use um diário de campo para documentar detalhes importantes enquanto observa.
+Observe comportamentos, interações e padrões sociais que podem não ser facilmente percebidos.
+Sempre peça permissão antes de participar de qualquer atividade ou registrar informações.
+Analise como as interações observadas podem estar conectadas ao problema identificado.
+
+#### Passo 1: Defina os objetivos da observação
+
+Quais são os aspectos ou dinâmicas da comunidade que devem ser observados?
+O que deve ser compreendido ou aprendido durante a observação?
+
+#### Passo 2: Planeje a imersão na comunidade
+
+Quais locais, eventos ou atividades da comunidade serão observados, e de que forma será feita essa participação? Informe também o tempo de observação.
+
+
+#### Passo 3: Prepare-se para o registro
+
+Que ferramentas serão utilizadas para documentar as observações (caderno, fotos, vídeos)? Como serão registradas as interações, comportamentos ou reflexões importantes?
+
+
+#### Passo 4: Garanta a postura ética
+
+Como a comunidade será informada sobre o objetivo da observação? Há necessidade de pedir autorização para registros? Como será feito?
+
+
+#### Passo 5: Analise as informações coletadas
+
+Após concluir a observação participante, é hora de refletir sobre as informações registradas para extrair insights valiosos.
+Certifique-se de:
+
+- Identificar padrões ou tendências nas observações feitas durante os eventos ou atividades acompanhadas.
+- Relacionar as observações com os objetivos da investigação e as necessidades da comunidade.
+- Verificar se há lacunas ou informações que precisam de complementação antes de avançar no diagnóstico.
+- Organizar os registros de forma clara e lógica para facilitar sua interpretação e uso no projeto.
+
+Após realizar os passos descritos, clique em 'Ciente' para confirmar e prosseguir.
+
+
+#### ✅ Resposta ao Desafio 1
+
+Resposta 1
+Os aspectos e dinâmicas da comunidade que devem ser observados são aqueles que revelam tanto os desafios quanto as potencialidades ligadas ao cotidiano.
+Como os moradores acessam, armazenam e utilizam água no dia a dia.
+Práticas relacionadas à iluminação, eletrodomésticos e possíveis soluções alternativas.
+Encontros em praças, associações, igrejas ou escolas, mostrando como a comunidade se organiza e compartilha valores.
+Atividades esportivas, religiosas ou culturais que fortalecem a identidade comunitária.
+Condições das ruas, saneamento, iluminação pública e espaços de convivência.
+Quem mobiliza os moradores, como são tomadas decisões coletivas e quais iniciativas já existem.
+Estratégias locais para lidar com falta de água, energia cara ou insegurança ambiental.
+
+Rotinas de consumo de água: como os moradores acessam, armazenam e utilizam água no dia a dia.
+Uso de energia: práticas relacionadas à iluminação, eletrodomésticos e possíveis soluções alternativas (como energia solar improvisada).
+Interações sociais: encontros em praças, associações, igrejas ou escolas, mostrando como a comunidade se organiza e compartilha valores.
+Práticas culturais e coletivas: atividades esportivas, religiosas ou culturais que fortalecem a identidade comunitária.
+Infraestrutura urbana: condições das ruas, saneamento, iluminação pública e espaços de convivência.
+Lideranças e participação comunitária: quem mobiliza os moradores, como são tomadas decisões coletivas e quais iniciativas já existem.
+Respostas a problemas cotidianos: estratégias locais para lidar com falta de água, energia cara ou insegurança ambiental.
+
+
+
+
+Resposta 2
+Comportamentos coletivos: padrões de interação que podem indicar tanto união quanto conflitos internos.
+Respostas aos desafios: estratégias criadas pela própria comunidade para lidar com falta de recursos.
+Conexão com os ODS: como as práticas locais se relacionam com os objetivos de desenvolvimento sustentável (água, energia, saneamento).
+Oportunidades de intervenção: pontos onde o projeto extensionista pode atuar para fortalecer soluções já existentes ou criar novas.
+
+
+O que deve ser compreendido ou aprendido são as dinâmicas sociais, culturais e ambientais que revelam tanto os desafios quanto as potencialidades locais.
+Padrões de interação que podem indicar tanto união quanto conflitos internos.
+Estratégias criadas pela própria comunidade para lidar com falta de recursos.
+Como as práticas locais se relacionam com os objetivos de desenvolvimento sustentável.
+Pontos onde o projeto extensionista pode atuar para fortalecer soluções já existentes ou criar novas.
+
+
+
+#### ✅ Resposta ao Desafio 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
