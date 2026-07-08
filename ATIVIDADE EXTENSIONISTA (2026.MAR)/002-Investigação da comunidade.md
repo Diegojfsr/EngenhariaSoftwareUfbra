@@ -226,6 +226,58 @@ Após realizar os passos descritos, clique em 'Ciente' para confirmar e prossegu
 
 
 
+#### ✅ Resposta ao Desafio 1
+
+Resposta1
+O objetivo do registro fotográfico é captar elementos visuais que ajudem a compreender tanto os desafios quanto as potencialidades da comunidade. 
+Rotinas cotidianas como atividades diárias dos moradores,  coleta de água, uso de energia, práticas de convivência e lazer.
+Infraestrutura urbana, ruas, iluminação pública, sistemas de abastecimento de água e saneamento, mostrando tanto problemas como buracos, esgoto a céu aberto quanto melhorias existentes.
+Registros em horários diferentes como manhã, tarde e noite para mostrar como a comunidade utiliza os espaços.
+
+Resposta2
+As imagens do documentário fotográfico podem complementar os outros métodos de coleta de dados de várias formas.
+As fotos registram evidências visuais dos problemas e potencialidades percebidos durante a observação, como ruas com esgoto a céu aberto ou espaços comunitários bem utilizados.
+Captam momentos que revelam dinâmicas sociais difíceis de descrever apenas em texto, como a participação coletiva em atividades comunitárias.
+As fotos tornam os dados mais impactantes e acessíveis, facilitando a comunicação com parceiros, gestores públicos e até com os próprios moradores.
+
+
+#### ✅ Resposta ao Desafio 2
+
+
+Locais prioritários para registro
+Ruas e infraestrutura urbana  
+Fotografar calçadas, iluminação pública, pontos de coleta de lixo e áreas com problemas de saneamento (como esgoto aparente ou buracos).
+
+Espaços de convivência comunitária  
+Praças, quadras esportivas, associações de moradores e igrejas, mostrando como a comunidade interage e se organiza.
+
+Instituições locais  
+Escolas, creches e centros comunitários, que são pontos estratégicos para ações educativas e mobilização social.
+
+Residências e comércios  
+Registros que evidenciem práticas cotidianas ligadas ao consumo de água e energia, como caixas d’água, sistemas improvisados ou uso de equipamentos elétricos.
+
+Recursos naturais e ambientais  
+Nascentes, áreas verdes, rios ou canais próximos, destacando tanto a importância ambiental quanto os impactos da poluição.
+
+Momentos do dia  
+Captar imagens em diferentes horários (manhã, tarde e noite) para mostrar como a comunidade utiliza os espaços e enfrenta desafios como falta de iluminação ou abastecimento irregular.
+
+
+#### ✅ Resposta ao Desafio 3
+
+Equipamento principal
+Celular: é uma escolha prática e suficiente para o registro fotográfico e de vídeo. Hoje, a maioria dos celulares possui câmeras com boa resolução, além de serem discretos e fáceis de transportar, o que facilita a coleta em campo.
+
+Tripé: garante estabilidade nas imagens, evitando tremores e melhorando a qualidade dos registros, especialmente em vídeos ou fotos em baixa luminosidade.
+
+Suporte para celular: ajuda a posicionar o aparelho em ângulos adequados e facilita o uso em oficinas ou entrevistas coletivas.
+
+Led: essencial para corrigir iluminação em ambientes internos ou em registros noturnos, destacando detalhes que poderiam passar despercebidos.
+
+
+✅ Resposta ao Desafio 4
+
 
 
 
