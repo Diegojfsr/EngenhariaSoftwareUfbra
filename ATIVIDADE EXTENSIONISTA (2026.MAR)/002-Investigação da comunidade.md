@@ -382,6 +382,71 @@ Pontos onde o projeto extensionista pode atuar para fortalecer soluções já ex
 
 #### ✅ Resposta ao Desafio 2
 
+Locais a serem observados
+Ruas, circulação de moradores, condições de saneamento e iluminação.
+Praças, espaços de convivência, atividades coletivas, lazer e interação social.
+Escolas, centros comunitários, dinâmicas educativas e culturais.
+Residências, pequenos comércios, práticas cotidianas.
+Igreja, associação de moradores, momentos de reunião e mobilização comunitária.
+Tempo de observação
+Algo entre 2 a 3 semanas, com visitas regulares.
+Frequência de 2 a 3 vezes por semana, em diferentes horários.
+Duração por visita de 10 a 15 minutos, para captar interações e rotinas variadas.
+Forma de participação
+Participar de maneira natural e respeitosa as atividades sem interferir nas dinâmicas.
+Utilizar o diário de campo para registrar percepções, reflexões e detalhes observados.
+Complementar com o documentário fotográfico, captando imagens dos espaços.
+
+Em resumo: 
+Irei observar as ruas, espaços de convivência, instituições locais e eventos comunitários, participando de forma discreta e respeitosa, durante um período de 2 a 3 semanas, com registros contínuos em diário de campo e fotos.
+
+
+
+#### ✅ Resposta ao Desafio 3
+
+Ferramentas de documentação
+Será utilizado fichário, bloco de notas e folhas brancas para registrar reflexões, percepções, comportamentos observados e insights.
+Será utilizado fotos para capturar os aspectos visuais da comunidade, como infraestrutura, espaços de convivência e rotinas cotidianas.
+Ferramentas de edição de texto como Word, Google Docs e Bloco de Notas, para transcrever e organizar as anotações.
+Aplicativos de edição de texto no celular, para registros rápidos e reflexões complementares durante ou logo após as visitas.
+
+
+Forma de registro das interações
+Anotações detalhadas dos comportamentos, falas espontâneas e padrões sociais.
+Complemento visual com fotos, darão suporte às observações escritas.
+Reflexões críticas: cada interação observada será analisada em relação aos objetivos do projeto (ODS 6 e 7), destacando demandas e potencialidades.
+
+
+#### ✅ Resposta ao Desafio 4
+
+Comunicação com a comunidade
+Explicar de forma clara e simples que o objetivo da observação é compreender as dinâmicas locais, identificar desafios e potencialidades, e contribuir com soluções.
+Conversar com associação de moradores, lideranças religiosas ou comunitárias para obter apoio e legitimar a presença.
+Divulgar em encontros comunitários ou espaços de convivência, garantindo que todos saibam da finalidade da observação.
+
+Autorização para registros
+Pedir permissão antes de fotografar, explicando como o material será usado.
+Solicitar autorização antes de registrar residências, comércios ou áreas internas.
+Informar que fotos terão caráter educativo e não serão usados para fins comerciais.
+
+Forma de execução
+Antes de iniciar cada atividade, apresentar-se e reforçar o propósito da observação.
+Utilizar linguagem acessível e respeitosa, garantindo que todos compreendam.
+Documentar no diário de campo quando e como as autorizações foram concedidas, para manter clareza e ética no processo.
+
+Em resumo.
+Em momentos que necessitem autorização irei informar os envolvidos por meio de apresentações e diálogo, e os registros só serão feitos mediante autorização clara, respeitando espaços privados e garantindo transparência no uso das imagens.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
