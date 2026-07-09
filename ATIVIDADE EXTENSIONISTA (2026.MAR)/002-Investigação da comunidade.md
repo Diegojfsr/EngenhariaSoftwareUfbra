@@ -571,28 +571,53 @@ O diário será organizado por datas, locais e temas, com espaço para reflexõe
 
 #### ✅ Resposta ao Desafio 5
 
+Cronograma de observações-Semana1-CRV1
+Semana 1
+Datas: 1 e 15 de junho
+Locais: Av. dos Campeões, Ramos - RJ
+Nesta primeira observação não tiveram participantes envolvidos.
+Detalhes: Meu primeiro objetivo foi fazer registro fotográfico do rio que corta o bairro.
 
 
 
 
+## Registro da coleta de dados
+
+![](https://desenvolvimento-extensao.dreamshaper.com/uploads/richtext/images/20241212225610675b6a0a17c8c.png)
+
+Agora é o momento de organizar e documentar as informações obtidas durante a investigação da comunidade. Essa etapa é essencial para garantir que os dados coletados possam ser utilizados de forma clara e eficiente no diagnóstico das necessidades e características da comunidade.
+
+Utilize os campos abaixo para registrar suas observações, reflexões e materiais coletados:
+
+#### Registros visuais
+
+Anexe imagens ou vídeos que representem as condições observadas na comunidade, como infraestrutura, dinâmicas sociais ou desafios específicos.
+
+- Nomeie os arquivos com descrições claras e data (ex.: Foto_Infraestrutura_01032024).
+- Formatos aceitos: JPG, JPEG, PNG, MP4, AVI, MOV.
+- Caso os arquivos ultrapassem 25 MB, use uma pasta em nuvem e compartilhe o link.
+
+#### Registros documentais
+
+Anexe documentos que sejam relevantes para o contexto investigado, como relatórios, registros históricos ou dados de fontes oficiais.
+
+- Formatos aceitos: PDF ou outros formatos legíveis.
+- Inclua uma breve descrição do documento e sua relevância.
+
+#### Observações e reflexões
+
+Utilize este espaço para registrar suas observações e reflexões mais relevantes.
+
+- Destaque informações que chamaram atenção durante a coleta.
+- Inclua percepções que possam complementar os registros visuais e documentais.
 
 
 
+#### Comentários preliminares
 
+Com base nos dados coletados, aponte os principais destaques ou questões iniciais que merecem atenção no diagnóstico.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Alguma informação chama mais atenção ou precisa de investigação adicional?
 
 
 
