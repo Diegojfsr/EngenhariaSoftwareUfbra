@@ -438,6 +438,148 @@ Em resumo.
 Em momentos que necessitem autorização irei informar os envolvidos por meio de apresentações e diálogo, e os registros só serão feitos mediante autorização clara, respeitando espaços privados e garantindo transparência no uso das imagens.
 
 
+## Diário de campo
+
+![](https://desenvolvimento-extensao.dreamshaper.com/uploads/richtext/images/20241212225344675b6978baadc.png)
+
+O diário de campo é uma ferramenta valiosa para documentar, de maneira reflexiva, as interações e observações realizadas durante a coleta de informações. Ele possibilita registrar percepções, sentimentos, e detalhes sobre o contexto da comunidade, permitindo uma análise mais rica e contextualizada.
+
+
+#### Dicas
+
+- Registre tudo o que chama sua atenção, sem julgar ou interpretar de imediato.
+- Registre suas observações logo após o campo para garantir precisão.
+- Descreva o ambiente, as condições e as interações observadas.
+- Adicione suas impressões e como as observações se conectam com os objetivos do projeto.
+- Faça esboços ou anotações rápidas para complementar suas observações.
+- Anote como você se sente em relação ao que observou.
+- Capture momentos espontâneos que podem trazer insights valiosos.
+- Garanta respeito pela privacidade e mantenha a confidencialidade quando necessário.
+
+
+#### Passo 1: Defina o foco do registro
+
+Antes de iniciar o diário de campo, tenha claro o propósito da sua atividade de campo.
+Indique o que você espera alcançar com essa coleta e quais tipos de informações precisa coletar.
+
+#### Passo 2: Metodologia
+
+Descreva a atividade de campo planejada, detalhando o(s) ambiente(s) onde será realizada, os métodos de coleta de dados escolhidos (como observação participante, experimentação, entrevistas, entre outros), os participantes envolvidos (se aplicável) e quaisquer fatores importantes a serem considerados, como contexto cultural ou logístico.
+
+#### Passo 3: Estruture o formato do diário
+
+Qual será o principal formato do diário de campo?
+Diário físico (papel e caneta, por exemplo)
+Diário eletrônico (celular, tablet, computador, etc.)
+
+#### Passo 4: Organização
+
+Descreva como será organizado os registros no diário. Pode ser por datas, locais, temas específicos ou qualquer outra estrutura que faça sentido para o seu projeto.
+
+#### Passo 5: Organize um cronograma de observações
+
+Defina as datas da atividade de campo, indicando o local, os participantes envolvidos e outros detalhes relevantes para o planejamento.
+
+
+#### Passo 6: Analise as informações coletadas
+
+Os registros feitos no diário de campo são valiosos para compreender a dinâmica da comunidade.
+Certifique-se de:
+- Revisar as anotações para identificar detalhes importantes e padrões observados.
+- Agrupar os registros por temas (ex.: comportamentos, interações, ambiente).
+- Refletir sobre suas impressões e como elas ajudam a contextualizar o problema ou as necessidades identificadas.
+- Identificar pontos que precisam ser explorados mais profundamente em outras abordagens.
+- Comparar as informações do diário com os dados coletados por outros métodos para obter uma visão mais ampla.
+
+Após realizar os passos descritos, clique em 'Ciente' para confirmar e prosseguir.
+
+
+
+#### ✅ Resposta ao Desafio 1
+
+Propósito da atividade de campo
+Observar como os moradores interagem entre si e com os espaços da comunidade.
+Registrar problemas relacionados a saneamento, energia, infraestrutura e organização.
+Destacar práticas sustentáveis e iniciativas coletivas
+Relacionar os registros com os objetivos do projeto, especialmente ODS 6 e ODS 7.
+
+Tipos de informações a coletar
+Descrição de ruas, praças, escolas, residências e espaços de convivência.
+Hábitos de consumo de água e energia, formas de organização social e práticas culturais.
+Encontros comunitários, reuniões, atividades coletivas e momentos de cooperação.
+Impressões pessoais sobre o que foi observado, incluindo reações da comunidade.
+Situações inesperadas que revelam aspectos importantes da realidade local.
+
+Em resumo: 
+Entender como a comunidade vive e interage, identificar problemas e reconhecer forças locais, registrando tanto dados objetivos quanto percepções subjetivas.
+
+
+#### ✅ Resposta ao Desafio 2
+
+Ambiente
+Ruas, circulação, infraestrutura, saneamento e iluminação.
+Praças, espaços de convivência, atividades coletivas, lazer e interação social.
+Instituições locais, escolas, centros comunitários e igrejas.
+Residências, comércios, práticas cotidianas ligadas ao consumo de água e energia.
+
+Métodos de coleta de dados
+Imersão nas atividades da comunidade, acompanhando rotinas e interações.
+Registro reflexivo de percepções, sentimentos e detalhes observados.
+Documentário fotográfico para evidenciar aspectos visuais da realidade local.
+
+Participantes envolvidos
+Moradores locais, sempre observando suas rotinas e interações.
+Responsáveis por mobilizar e organizar atividades coletivas.
+Jovens, idosos ou trabalhadores, dependendo da dinâmica observada.
+
+Fatores importantes
+Respeitar tradições, hábitos e valores locais.
+Planejar visitas em horários variados para captar diferentes dinâmicas.
+Informar claramente os objetivos e pedir autorização para registros fotográficos.
+
+
+Em resumo: 
+A metodologia combina observação participante, diário de campo, documentário fotográfico e entrevistas informais, realizada em ambientes estratégicos da comunidade, com participação de moradores e lideranças, respeitando o contexto cultural e ético.
+
+
+Minha metodologia combinas observação de ruas, circulação, infraestrutura, saneamento, iluminação, praças, espaços de convivência, atividades coletivas, lazer e interação social.
+Utilização de registros reflexivos de percepções, sentimentos e detalhes observados. Imersão nas atividades da comunidade, acompanhando rotinas e interações.
+E claro, documentário fotográfico para evidenciar aspectos visuais da realidade local.
+
+
+#### ✅ Resposta ao Desafio 3
+
+Qual será o principal formato do diário de campo?
+Diário eletrônico (celular, tablet, computador, etc.)
+
+
+#### ✅ Resposta ao Desafio 4
+
+Estrutura de organização
+Por datas: cada entrada começa com a data e horário da observação, garantindo cronologia e evolução das percepções.
+
+Por locais: identificar o ambiente observado (rua, praça, escola, residência, comércio), permitindo comparar diferentes espaços da comunidade.
+
+Por temas específicos: categorizar registros em tópicos como consumo de água, uso de energia, saneamento, interações sociais e práticas culturais.
+
+Reflexões pessoais: seção dedicada às impressões, sentimentos e conexões com os objetivos do projeto (ODS 6 e 7).
+
+Complementos multimídia: anexar fotos, vídeos ou áudios às anotações, enriquecendo o conteúdo com evidências visuais.
+
+Em resumo: 
+O diário será organizado por datas, locais e temas, com espaço para reflexões pessoais e complementos multimídia, criando uma narrativa cronológica e temática da realidade comunitária.
+
+#### ✅ Resposta ao Desafio 5
+
+
+
+
+
+
+
+
+
+
 
 
 
