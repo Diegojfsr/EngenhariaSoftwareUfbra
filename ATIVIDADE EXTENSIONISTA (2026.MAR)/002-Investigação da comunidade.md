@@ -621,11 +621,109 @@ Com base nos dados coletados, aponte os principais destaques ou questões inicia
 
 
 
+#### ✅ Resposta ao Desafio 1
+
+Organização dos arquivos
+Nomeação clara: usar descrições objetivas + data.
+Exemplo: Foto_Infraestrutura_01032024 ou Video_ReuniãoComunitária_15032024.
+Formatos aceitos: JPG, JPEG, PNG para imagens; MP4, AVI, MOV para vídeos.
+Controle de tamanho: se ultrapassar 25 MB, salvar em pasta na nuvem (Google Drive, OneDrive) e compartilhar o link.
+
+Boas práticas
+Complementar observações: cada foto ou vídeo deve estar conectado a uma anotação no diário eletrônico.
+Respeito e ética: sempre pedir autorização antes de registrar pessoas ou espaços privados.
+Contextualização: incluir breve descrição junto ao arquivo, explicando o que foi observado e por que é relevante.
+
+Em resumo: 
+Os registros visuais serão imagens e vídeos nomeados com clareza e data, organizados em formatos aceitos e vinculados às observações do diário eletrônico, garantindo documentação ética, contextualizada e eficiente.
+
+Guia prático de organização
+Organização dos arquivos
+Nomeação clara: usar descrição + data.
+Exemplo: Foto_Infraestrutura_01032024 ou Video_ReuniãoComunitária_15032024.
+Pastas temáticas: criar pastas por temas (Infraestrutura, Interações Sociais, Cultura, Consumo de Água/Energia).
+Controle de tamanho: arquivos acima de 25 MB devem ser salvos em nuvem (Google Drive, OneDrive) e compartilhados via link.
+
+✨ Boas práticas
+Contextualização: cada arquivo deve ter uma breve descrição explicando o que representa e por que é relevante.
+Ética e consentimento: sempre pedir autorização antes de registrar pessoas ou espaços privados.
+Backup em nuvem: manter cópias digitais organizadas para evitar perda de dados.
+Integração com diário: relacionar cada foto ou vídeo com a entrada correspondente no diário de campo.
+
+#### ✅ Resposta ao Desafio 2
+
+O que incluir como registros documentais
+Relatórios oficiais: documentos da prefeitura, associações de moradores ou órgãos públicos sobre infraestrutura, saneamento ou energia.
+Registros históricos: textos ou arquivos que contam a trajetória da comunidade, mudanças urbanas ou culturais.
+Dados estatísticos: informações de censos, IBGE ou outras fontes confiáveis que descrevem perfil socioeconômico e demográfico.
+Materiais comunitários: atas de reuniões, cartazes, comunicados internos ou projetos já realizados.
+
+Organização dos documentos
+Formatos aceitos: PDF ou outros formatos legíveis (DOCX, TXT).
+Nomeação clara: usar título + tema + data.
+Exemplo: Relatório_Saneamento_2024.pdf ou Dados_IBGE_2022.pdf.
+Descrição breve: junto ao arquivo, incluir uma nota explicando sua relevância.
+Exemplo: Relatório da prefeitura sobre abastecimento de água, importante para comparar com observações de campo.
+
+Boas práticas
+Integração com diário: relacionar cada documento às observações registradas, criando conexões entre dados oficiais e percepções locais.
+Armazenamento seguro: manter os arquivos organizados em pastas digitais e, se forem grandes, salvar em nuvem (Google Drive, OneDrive).
+Confidencialidade: respeitar documentos internos da comunidade, garantindo que só sejam usados com autorização.
+
+Em resumo: 
+Os registros documentais devem ser anexados em PDF ou formatos legíveis, nomeados com clareza, acompanhados de uma breve descrição e integrados ao diário de campo, fortalecendo o diagnóstico da comunidade com dados oficiais e históricos.
 
 
+#### ✅ Resposta ao Desafio 3
+
+Observações
+Informações relevantes: destaque aspectos que chamaram atenção durante a coleta, como problemas de infraestrutura, práticas culturais ou interações sociais.
+Detalhes contextuais: descreva o ambiente, condições físicas e comportamentos observados sem julgamento imediato.
+Complemento aos registros visuais: explique o que as fotos ou vídeos representam e como se relacionam com o diagnóstico.
+
+Reflexões
+Percepções pessoais: anote sentimentos e impressões sobre o que foi observado, como reações da comunidade ou sua própria experiência de campo.
+Conexões com objetivos: relacione as observações com os ODS 6 e 7, identificando como os desafios e potencialidades se conectam ao projeto.
+Insights críticos: registre interpretações que surgem após refletir sobre os dados, como padrões sociais ou soluções locais que podem ser fortalecidas.
+Complemento documental: inclua percepções que dialogam com relatórios, dados oficiais ou registros históricos anexados.
+
+Resultado esperado
+Esse espaço garante que você vá além da descrição objetiva, construindo uma narrativa reflexiva e contextualizada, que une observações, registros visuais e documentais em uma análise crítica da comunidade.
+
+Em resumo: 
+Nas observações você descreve o que vê e ouve; nas reflexões você interpreta, conecta com os objetivos do projeto e registra percepções pessoais que enriquecem o diagnóstico.
 
 
+Minha resposta
+O rio nasce no cruzamento da Rua Zeferino de Assis e Rua Tupy.
+Ele passa pelas ruas, Irene, Nossa Sra das Graças, Pereira Landim, André Pinto, Joazeiro, João Romariz, Vila dos Comerciários, Tv. Srg. Ferreira, pela Praça das Formigas, pela estação de BRT Santa Luzia, pela Av. dos Campeões, pela praça Eloy de Andrade, pela estação de BRT Rubens Vaz, atravessa a comunidade Nova Horanda no Complexo da Maré, passa pela Linha Vermelha e desagua na Baía de Guanabara.
 
 
+#### ✅ Resposta ao Desafio 4
+
+Função dos comentários preliminares
+Síntese inicial: reunir os principais achados de forma resumida, sem ainda concluir ou interpretar totalmente.
+Destaques relevantes: apontar situações que se repetem ou que se mostraram mais significativas (ex.: falta de iluminação, práticas culturais fortes, consumo elevado de energia).
+Questões críticas: identificar problemas que merecem atenção imediata no diagnóstico, como saneamento precário ou ausência de espaços de lazer.
+
+O que incluir
+Informações que chamaram atenção: aspectos inesperados ou contrastantes com dados oficiais
+Necessidade de investigação adicional: pontos que não ficaram claros apenas com observação e que exigem entrevistas ou coleta de dados complementares.
+Conexões iniciais com os objetivos: relacionar os achados preliminares com os ODS 6 e 7, mostrando onde há maior impacto.
+
+Resultado esperado
+Esses comentários funcionam como um mapa inicial para o diagnóstico: eles não trazem conclusões definitivas, mas ajudam a direcionar o olhar para os aspectos mais relevantes e para os pontos que precisam ser aprofundados.
+
+ Em resumo: 
+ Os comentários preliminares devem destacar os principais achados, indicar questões críticas e apontar informações que exigem investigação adicional, servindo como base para o diagnóstico da comunidade.
+
+Minha resposta
+Extensão do rio, locais e caminhos por onde ele passa, acesso ao rio pela comunidade, estado de conservação do rio, vegetação e ambientação ao longo da extensão.
+
+
+## Etapa concluída
+
+Parabéns!
+Esta etapa do projeto foi concluída. Mas preste atenção! Estamos parabenizando-o(a) por ter preenchido todos os itens da etapa, apenas quantitativamente. Não analisamos e nem corrigimos seus textos e anexos, nesta etapa, mas eles serão corrigidos após a conclusão da disciplina. Então, esperamos que tenha caprichado! Mas fique tranquilo(a)! Até antes do encerramento da disciplina, você poderá sempre revisar e aprimorar seus textos e demais registros, se julgar necessário.
 
 
