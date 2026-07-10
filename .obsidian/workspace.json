@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "002-Investigação da comunidade"
             }
+          },
+          {
+            "id": "c9ebbdd9217196ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/003-Análise e diagnóstico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003-Análise e diagnóstico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
+                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/003-Análise e diagnóstico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 002-Investigação da comunidade"
+              "title": "Sumário de 003-Análise e diagnóstico"
             }
           },
           {
@@ -167,10 +182,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb3d4e7b34f226bf",
+  "active": "c9ebbdd9217196ff",
   "lastOpenFiles": [
-    "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/003-Análise e diagnóstico.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.1-Culturas afro-brasileira e indígena na sociedade brasileira contemporânea.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.2-Ética e o meio ambiente.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Conteúdo Complementar1.3-Promoção da igualdade de gênero e de orientação sexual.md",
@@ -195,7 +211,6 @@
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Avaliação 1.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Avalie sua disciplina.md",
     "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Avalie sua disciplina.md",
-    "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula4.1- Estratégias de leitura textual ou literal.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
