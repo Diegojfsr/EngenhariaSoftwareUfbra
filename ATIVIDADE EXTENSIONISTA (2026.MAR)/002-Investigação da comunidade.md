@@ -726,4 +726,9 @@ Extensão do rio, locais e caminhos por onde ele passa, acesso ao rio pela comun
 Parabéns!
 Esta etapa do projeto foi concluída. Mas preste atenção! Estamos parabenizando-o(a) por ter preenchido todos os itens da etapa, apenas quantitativamente. Não analisamos e nem corrigimos seus textos e anexos, nesta etapa, mas eles serão corrigidos após a conclusão da disciplina. Então, esperamos que tenha caprichado! Mas fique tranquilo(a)! Até antes do encerramento da disciplina, você poderá sempre revisar e aprimorar seus textos e demais registros, se julgar necessário.
 
+#### Objetivos cumpridos
+- Estudou os ODS 6 e 7 e compreendeu a relação entre eles
+- Definiu o público-alvo/comunidade
+- Realizou a coleta de dados
+
 
