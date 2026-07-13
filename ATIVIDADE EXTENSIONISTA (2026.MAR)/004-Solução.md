@@ -256,17 +256,36 @@ Superação: optar por tecnologias simples e de baixo custo, capacitar jovens da
 ## Validação da solução
 
 
+![](https://desenvolvimento-extensao.dreamshaper.com/uploads/richtext/images/20241212231812675b6f3405aa5.png)
+
+Validar a solução é uma etapa essencial para assegurar que ela atenda às expectativas e necessidades identificadas. Esse momento permite verificar se a proposta está alinhada ao que foi planejado e ao que a comunidade realmente precisa. A validação deverá ser feita diretamente com a comunidade beneficiada, trazendo uma perspectiva prática e alinhada ao contexto. Esse processo ajuda a identificar ajustes necessários antes de avançar para a implementação.
 
 
+#### Feedback
+Há ajustes ou recomendações importantes a considerar antes de seguir adiante? Registre as principais sugestões recebidas para ajustar a solução, garantindo que o projeto atenda às necessidades identificadas.
 
 
+Engajamento comunitário  
+Sugestão: envolver lideranças locais desde o início para aumentar a adesão.
+Ajuste: criar reuniões abertas e rodas de conversa para ouvir preocupações e expectativas.
+
+Educação ambiental  
+ Sugestão: adaptar oficinas para diferentes faixas etárias e incluir atividades práticas.
+Ajuste: desenvolver materiais didáticos simples e acessíveis, com linguagem clara e exemplos locais.
+
+Monitoramento tecnológico  
+ Sugestão: garantir que os moradores sejam capacitados para operar os sensores.
+ Ajuste: incluir treinamentos básicos e criar um grupo de jovens responsáveis pelo acompanhamento.
+
+Parque linear sustentável  
+Sugestão: priorizar áreas mais utilizadas pela comunidade para iniciar a transformação.
+Ajuste: realizar consultas públicas para definir quais espaços terão maior impacto social.
 
 
+## Etapa concluída
 
-
-
-
- 
+ Parabéns!
+Esta etapa do projeto foi concluída. Mas preste atenção! Estamos parabenizando-o(a) por ter preenchido todos os itens da etapa, apenas quantitativamente. Não analisamos e nem corrigimos seus textos e anexos, nesta etapa, mas eles serão corrigidos após a conclusão da disciplina. Então, esperamos que tenha caprichado! Mas fique tranquilo(a)! Até antes do encerramento da disciplina, você poderá sempre revisar e aprimorar seus textos e demais registros, se julgar necessário.
 
 
 
