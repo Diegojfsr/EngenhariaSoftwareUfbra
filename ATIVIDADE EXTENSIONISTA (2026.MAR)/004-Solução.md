@@ -287,5 +287,10 @@ Ajuste: realizar consultas públicas para definir quais espaços terão maior im
  Parabéns!
 Esta etapa do projeto foi concluída. Mas preste atenção! Estamos parabenizando-o(a) por ter preenchido todos os itens da etapa, apenas quantitativamente. Não analisamos e nem corrigimos seus textos e anexos, nesta etapa, mas eles serão corrigidos após a conclusão da disciplina. Então, esperamos que tenha caprichado! Mas fique tranquilo(a)! Até antes do encerramento da disciplina, você poderá sempre revisar e aprimorar seus textos e demais registros, se julgar necessário.
 
-
+#### Objetivos cumpridos
+Realizou o brainstorming
+Escolheu uma solução para o problema de partida
+Desenvolveu os objetivos do projeto
+Refletiu sobre os resultados esperados dessa solução
+Validou a solução
 
