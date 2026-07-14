@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/005-Execução.md",
+                "file": "005-Execução.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/005-Execução.md",
+                "file": "005-Execução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,10 +210,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2e7ac7a537d30c15",
+  "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/004-Solução.md",
-    "ATIVIDADE EXTENSIONISTA (2026.MAR)/005-Execução.md",
+    "005-Execução.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/003-Análise e diagnóstico.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
