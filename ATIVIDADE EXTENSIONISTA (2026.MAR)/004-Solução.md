@@ -179,7 +179,9 @@ Realizar 3 eventos comunitários de sensibilização sobre preservação da águ
 
 #### Defina o objetivo geral do projeto extensionista. Ele deve expressar de forma ampla o impacto principal que o projeto pretende alcançar na comunidade.
 
-Promover a conservação ambiental do rio e suas margens, garantindo água mais limpa, biodiversidade fortalecida e espaços de convivência comunitária, por meio de ações integradas de restauração ecológica, educação ambiental, monitoramento tecnológico e urbanismo sustentável.
+Promover a conservação ambiental do rio no bairro de Ramos, garantindo qualidade da água, preservação da vegetação e fortalecendo a consciência comunitária sobre práticas sustentáveis, de modo a melhorar a saúde, o bem-estar e a inclusão social dos moradores, em alinhamento com os ODS 6 e 7.
+
+Em resumo: O impacto principal que se deseja alcançar é restaurar e preservar o rio como recurso vital da comunidade, ao mesmo tempo em que se promove educação ambiental e engajamento social para assegurar mudanças duradouras.
 
 #### Liste de 2 a 5 objetivos específicos que detalhem ações concretas e mensuráveis, necessárias para atingir o objetivo geral. Considere que esses objetivos devem descrever etapas claras e realistas.
 
@@ -193,6 +195,21 @@ Criar parque linear sustentável
 Transformar um trecho de 500 metros das margens em espaço de lazer e convivência, com trilhas ecológicas e drenagem natural, em até 18 meses.
 Formar comitê comunitário de gestão do rio  
 Estabelecer um grupo de moradores e lideranças locais para acompanhar e propor ações de conservação, realizando reuniões trimestrais a partir dos próximos 6 meses.
+
+> Abordagem Tecnologica
+
+Criar um site informativo: desenvolver uma página digital com conteúdos sobre preservação do rio, calendário de mutirões e materiais educativos, até o final dos próximos 4 meses.
+
+Lançar um aplicativo comunitário: disponibilizar um app simples para registro de denúncias de poluição, acompanhamento das ações e comunicação direta entre moradores e organizadores.
+
+Divulgar em mídias sociais: criar perfis oficiais no Instagram e Facebook para compartilhar resultados, mobilizar voluntários e promover campanhas de conscientização.
+
+Produzir conteúdo digital educativo: elaborar vídeos curtos e posts interativos sobre uso consciente da água e energia, com meta de 2 publicações semanais durante 6 meses.
+
+Implementar ferramentas de monitoramento: utilizar sensores simples ou relatórios digitais colaborativos para acompanhar a qualidade da água e o progresso das ações.
+
+
+
 
 #### Indique quem são as pessoas mais impactadas e beneficiadas pela solução proposta e o tamanho aproximado.
 

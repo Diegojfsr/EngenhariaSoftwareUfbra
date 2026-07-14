@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87b5b76af46b33b4",
+        "id": "76b2ab9461377bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "eb3d4e7b34f226bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "002-Investigação da comunidade"
-            }
-          },
-          {
-            "id": "c9ebbdd9217196ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/003-Análise e diagnóstico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "003-Análise e diagnóstico"
-            }
-          },
-          {
-            "id": "0b110efe568324ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/004-Solução.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "004-Solução"
-            }
-          },
-          {
-            "id": "2e7ac7a537d30c15",
+            "id": "8f4c05f1129c6a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +21,7 @@
               "title": "005-Execução"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +167,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "8f4c05f1129c6a1e",
   "lastOpenFiles": [
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/004-Solução.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/005-Execução.md",
