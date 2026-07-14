@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "005-Execução"
             }
+          },
+          {
+            "id": "efc879fc3d7e80d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/006-Resultados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006-Resultados"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/005-Execução.md",
+                "file": "ATIVIDADE EXTENSIONISTA (2026.MAR)/006-Resultados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 005-Execução"
+              "title": "Sumário de 006-Resultados"
             }
           },
           {
@@ -167,10 +182,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f4c05f1129c6a1e",
+  "active": "efc879fc3d7e80d7",
   "lastOpenFiles": [
-    "ATIVIDADE EXTENSIONISTA (2026.MAR)/004-Solução.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/005-Execução.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/006-Resultados.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/004-Solução.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/003-Análise e diagnóstico.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
     "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
@@ -195,7 +211,6 @@
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)/Aula4.2-Rede social, diversidade linguística e pluralidade cultural.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Avaliação 2.md",
-    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Avaliação 1.md",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)",
     "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
