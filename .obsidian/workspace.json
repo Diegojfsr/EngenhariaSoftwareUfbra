@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula2.2-Cálculo diferencial.md",
+                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula3.1-Funções e limites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula2.2-Cálculo diferencial"
+              "title": "Aula3.1-Funções e limites"
+            }
+          },
+          {
+            "id": "d63b1df29c690f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula3.2-Cálculo de limites leis básicas de limites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula3.2-Cálculo de limites leis básicas de limites"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula2.2-Cálculo diferencial.md",
+                "file": "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula3.2-Cálculo de limites leis básicas de limites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula2.2-Cálculo diferencial"
+              "title": "Sumário de Aula3.2-Cálculo de limites leis básicas de limites"
             }
           },
           {
@@ -210,9 +224,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fda8b2963a4d9d18",
+  "active": "d63b1df29c690f9d",
   "lastOpenFiles": [
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula3.1-Funções e limites.md",
+    "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula3.2-Cálculo de limites leis básicas de limites.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula2.2-Cálculo diferencial.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula2.1-Derivada de uma função.md",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)/Aula1.2-Limites, Taxas de variação e retas tangentes.md",
@@ -237,7 +252,6 @@
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula3.1-Desigualdades étnico-raciais.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula4.1-Estudo da cultura afro-brasileira religiões afro-brasileiras.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula2.1-Enfrentamento às manifestações de violências.md",
-    "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)/Aula1.1-Globalização, justiça social e cidadania.md",
     "TEMAS SOCIAIS ABRANGENTES - F1 (2026.2.ONLINE)",
     "LÍNGUA PORTUGUESA - E1 (2026.JUN)",
     "CÁLCULO DIFERENCIAL I - D1 (2026.MAI)",
