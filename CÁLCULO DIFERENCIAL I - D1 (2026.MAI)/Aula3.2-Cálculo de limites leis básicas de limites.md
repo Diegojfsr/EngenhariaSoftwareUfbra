@@ -223,14 +223,60 @@ Cálculo: Propriedades dos Limites (Aula 4 de 15)
 ## REFERÊNCIAS BIBLIOGRÁFICAS E CRÉDITOS DE IMAGENS
 
 
+ROGAWSKI, John. Cálculo. 1ª edição. Porto Alegre: Bookman, 2009.
+
+Imagens utilizadas na UA
+
+Capa
+STEPANPOPOV/Shutterstock.
+SAGAH, 2014.
+
+Figura 1
+VARGAS, Edílson. 2014.
+SAGAH, 2014.
+
+Figura 2
+NDOELJINDOEL/Shutterstock.
+VARGAS, Edílson. 2014.
+SAGAH, 2014.
+
+Imagens utilizadas no vídeo
+VARGAS, Edílson. 2014.
+SAGAH, 2014.
+
+Coordenadora de Curso
+Alexandre Baroni
+
+Professor
+Edilson Vargas
 
 
+## EQUIPE SAGAH
 
+Gerente
+Rodrigo Severo
 
+Analista de Projetos
+Fernanda Osório
 
+Analistas Metodológicas
+Daniela Stieh
+Fernanda Zimpel
 
+Designers Instrucionais
+Cristina Perrone
+Ezequiel Alves
+Luana Cavalcanti
+Marcelo Steffen
+Luciana Helmann
 
-
-
-
+Designers Gráficos
+Carol Becker
+Kaka Silocchi
+Juarez Menegassi
+Lisi Medeiros
+Marcio Castellan
+Rafael Zago
+Thais Gliosci
+Vinicius Rafael Cárcamo
 
